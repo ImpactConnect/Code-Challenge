@@ -1,8 +1,3 @@
-# Code-Challenge
-Sure, here's a sample `README.md` document for the three challenges:
-
----
-
 # Coding Challenges: JavaScript Toy Problems
 
 This repository contains solutions to three JavaScript toy problems that cover various aspects of programming logic and calculations. Each challenge has a unique focus and provides an opportunity to practice your JavaScript skills.
