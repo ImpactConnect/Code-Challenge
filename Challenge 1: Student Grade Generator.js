@@ -9,6 +9,6 @@ function scoreGrade(score) {
     return "Your Grade is 'D'";
   } else if (score < 40) {
     return "Your Grade is 'E'";
-  } else return "Please enter the correct score";
+  } else return "Score must be from 0 - 100";
 }
 console.log(scoreGrade(25));
